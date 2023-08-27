@@ -3,7 +3,8 @@
 
 ![Project Logo](./cover.png) 
 
-This project focuses on classifying clients into distinct categories based on their behaviors and characteristics. In the modern business environment, understanding and categorizing clients into different segments can significantly aid in personalized marketing and improve customer service. This repository contains code, data, and analysis for a client classification project using the machine learning models Random Forest and Logistic Regression.
+This project focuses on classifying customers into distinct categories based on their behaviours and characteristics. 
+Understanding and classifying customers into different segments in the modern business environment can significantly help marketing and improve customer service. This pipeline uses Random Forest and Logistic Regression to achieve this goal.
 
 ## Data
 
